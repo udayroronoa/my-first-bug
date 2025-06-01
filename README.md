@@ -1,7 +1,7 @@
 Just found my first bug on a live site
 
 Summary:
-Found a public-facing [redact] page at [ www.sru.edu.in/[redact] ], leaking sensitive information such as [redact]version, stack trace and internal file structure.
+Found a public-facing [redact] page at [ www.sru.edu.[redact] ], leaking sensitive information such as [redact]version, stack trace and internal file structure.
 
 Why it’s a security issue:
 - Revealing [redact] version lets attackers know which exploits to use.
